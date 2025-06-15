@@ -1,7 +1,6 @@
 # The-New-GLam-Sisters
 E-comerce website
-![E-comerce website](mockup/home.png)
-![Website Mockup](mockup/products.png)
-![Website Mockup](mockup/categories.png)
-![Website Mockup](mockup/contact.png)
-s
+![E-comerce website](Mockup/home.png)
+![E-comerce website](Mockup/products.png)
+![E-comerce website](Mockup/categories.png)
+![E-comerce website](Mockup/contact.png)
