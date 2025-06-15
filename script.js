@@ -9,3 +9,5 @@
             });
         });
     
+// Optional custom JavaScript in script.js
+console.log("Custom JavaScript for E-commerce website is running!");     
